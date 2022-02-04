@@ -16,4 +16,18 @@ INSTRUCTIONS
 •	If there are two planes of the same color on top of each other than that plane cannot be killed.
 •	To win the game, your planes have to traverse around the board and come into the home lane.
 •	If a player gets 3 six’s in a row, than his/her turn is void and next players plays.
-•	
+
+•	SCREENSHOTS:
+
+![1](https://user-images.githubusercontent.com/93034609/152565961-2c921d69-d268-45e7-a17c-970cda13b107.png)
+
+
+![2](https://user-images.githubusercontent.com/93034609/152565968-1e480da4-48da-4b82-acd2-dc05d0b98977.png)
+
+
+![3](https://user-images.githubusercontent.com/93034609/152565974-80f1bbbb-b050-468b-af23-054af0c3d6b7.png)
+
+
+![4](https://user-images.githubusercontent.com/93034609/152565979-8ec11a48-cefc-40fd-8759-8fad188e7a41.png)
+
+
